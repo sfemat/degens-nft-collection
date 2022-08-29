@@ -1,4 +1,4 @@
-//  0xCbED072907f0a802d33D13c139eC6268D711E0df
+//  0xB5c0C4804cF9C6C475445DB401BE73b969b40205
 const { ethers } = require("hardhat");
 require("dotenv").config({ path: ".env" });
 const { WHITELIST_CONTRACT_ADDRESS, METADATA_URL } = require("../constants");
